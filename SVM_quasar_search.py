@@ -1,5 +1,5 @@
 """
-    Search for quasars behind M31 using SVM and logistic regression, including 
+    Identify quasars behind M31 using SVM and logistic regression, including 
     1. Formatting the data
     2. Feature selection
     3. Feature visualization
